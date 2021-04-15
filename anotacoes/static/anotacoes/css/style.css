@@ -1,0 +1,25 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.box-form {
+  margin-top: 5%;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.content-title {
+  padding-bottom: 1rem;
+}
+
+.content-field {
+  width: 30rem;
+  height: 10rem;
+  resize: none;
+}
+
+.submit-button {
+  width: 6rem;
+}
